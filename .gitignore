@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets and environment variables
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local data and vector databases
+data/
+chroma_db/
+
+# macOS
+.DS_Store
