@@ -34,4 +34,4 @@ The first run downloads embedding and NLI models from Hugging Face, so an intern
 - Retrieve evidence from the uploaded PDFs.
 - Show per-claim NLI verdicts and export a CSV report.
 
-Scanned PDFs may need OCR; OCR is not included in this starter version.
+
